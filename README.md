@@ -10,6 +10,7 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hi 👋, I'm Jxfferson!</h1>
 <h3 align="center">Student passionate about innovation and solving ideas | Programming what I dream..</h3>
+<p align = "center"><a href="https://www.buymeacoffee.com/jeffersonsg"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
 
 <table align="center">
 <tr border="none">
