@@ -1,10 +1,10 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Data+Enthusiastic;Programmer;ML+Enthusiastic;Web+Designer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
 </p>
-
 <div align="center">
 
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
@@ -81,12 +81,9 @@
 
 ### <u> Mobile App Development Technologies & Tools: </u>
 
-<br>
+	
+<h3 align="center">Coming Soon...</h3>
 
-<span>
-
-</span>
-&nbsp;
 
 
 ### <u> Version Control and Tools:</u>
@@ -122,3 +119,12 @@
 <br>
 
 <hr>
+
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Jxfferson&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Jxfferson)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Jxfferson&theme=material-palenight)](https://github.com/Jxfferson)
+</div>
+
